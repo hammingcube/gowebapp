@@ -1,6 +1,6 @@
 ## A tutorial on creating Go Web App.
 
-Demo: http://gowebapp.thinkhike.com/amazing
+Demo: http://gowebapp.thinkhike.com/myself
 
 ### Docker based installation (and running)
 
