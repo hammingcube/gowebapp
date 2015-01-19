@@ -1,5 +1,7 @@
 ## A tutorial on creating Go Web App.
 
+Demo: http://gowebapp.thinkhike.com/amazing
+
 ### Docker based installation (and running)
 
 ```
