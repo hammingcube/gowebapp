@@ -2,6 +2,8 @@
 
 Demo: http://gowebapp.thinkhike.com/myself
 
+[![Build Status](https://travis-ci.org/maddyonline/gowebapp.svg)](https://travis-ci.org/maddyonline/gowebapp)
+
 ### Docker based installation (and running)
 
 ```
