@@ -7,7 +7,7 @@ import (
 
 func viewHandler(w http.ResponseWriter, r *http.Request) {
 	s := r.URL.Path[1:]
-	fmt.Fprintf(w, "Hi there, I love %s!", s)
+	fmt.Fprintf(w, "Hi there, I really love %s!", s)
 }
  
 
